@@ -18,19 +18,19 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-server-dom-webpack": "^19.2.0",
-    "rwsdk": "1.0.0-beta.14"
+    "rwsdk": "1.0.0-beta.24"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "1.13.13",
-    "@cloudflare/workers-types": "^4.20251011.0",
-    "@tailwindcss/vite": "^4.1.14",
-    "@types/node": "^24.8.1",
+    "@cloudflare/vite-plugin": "1.13.18",
+    "@cloudflare/workers-types": "^4.20251014.0",
+    "@tailwindcss/vite": "^4.1.16",
+    "@types/node": "^24.10.0",
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
-    "tailwindcss": "^4.1.14",
+    "tailwindcss": "^4.1.16",
     "typescript": "^5.9.3",
-    "vite": "^7.1.10",
-    "wrangler": "4.43.0"
+    "vite": "^7.1.12",
+    "wrangler": "4.45.3"
   },
   "prettier": {
     "printWidth": 100,
