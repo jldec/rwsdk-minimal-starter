@@ -1,7 +1,4 @@
 import { initClient, initClientNavigation } from 'rwsdk/client'
 
-// initClient()
-// initClientNavigation()
-
-const { handleResponse } = initClientNavigation();
-initClient({ handleResponse });
+const { handleResponse, onHydrated } = initClientNavigation()
+initClient({ handleResponse, onHydrated })
